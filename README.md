@@ -1,4 +1,4 @@
-# Digital_Circuits_System_Practicals
+# Practicals for Digital Circuits & Systems
 <br>
 Language: VHDL <br>
 Local Compiler: Xilinx ISE <br>
